@@ -1,0 +1,54 @@
+body {
+	background: url(assets/background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+a {
+	font-family: "Francois One", sans-serif;
+	float: right;
+	color: rgb(0,169,178);
+	font-size: 27px;
+	text-decoration: none;
+	margin-top: 2%;
+}
+
+#Navigation1 {
+	margin-right: 4%;
+}
+
+#Navigation2 {
+	margin-right: 3%;
+}
+
+header {
+/*	font-family: 'Special Elite',serif;
+	text-align: center;
+	color: rgb(255,127,42);
+	font-weight: 400;*/
+	padding-top: 9%;
+	text-align: center;
+}
+
+
+main {
+	font-family: 'Francois One', sans-serif;
+	text-align: center;
+}
+
+#Food {
+	color: #FFFFFF;
+	font-size: 3.5vw;	
+	padding-top:3%;
+}
+
+#Info {
+	color: rgb(255,127,42);
+	font-size: 18px;
+	padding-left: 32%;
+	padding-right: 32%;
+}

@@ -1,0 +1,142 @@
+
+
+body {
+	background-color: #314052;
+	background-repeat: repeat;
+	background-size: cover;
+}
+
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+#privacy{ 
+	float: right;
+	font-family: Kameron, serif;
+	font-size: 20px;
+	color: #FFFFFF;
+	margin-top: 40px;
+	margin-right: 30px;
+}
+
+#whitehouse {
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.clearfix:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+
+#frontpage-text-wrapper {
+	margin-top: 120px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+#Introtext{
+	display: block;
+	color: #FFFFFF;
+	clear: both;
+}
+
+#Welcome {
+	font-size: 60px;
+	clear: both;
+	font-family: Kameron, serif;	
+}
+
+#Catchphrase {
+	margin-top: 10px;
+	font-size: 25px;
+	font-family: Muli, sans-serif;	
+}
+
+#Instructions {
+	margin-top: 150px;
+	margin-left: 34px;
+	font-family: Muli;
+	font-size: 25px;
+	line-height: 130%;
+	color: #73F5B9;
+}
+
+#Zip-form{
+	display: inline;
+}
+
+#Zip-input{
+	margin-top: 20px;
+	font-family: Muli;
+	color: #FFFFFF;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+#Zip-code{
+	background-color: transparent;
+	font-size: 25px;
+	font-family: Muli;
+	margin-bottom: 3px;
+	color: #73F5B9;
+	border-width: 0px 0px 1px 0px; 
+	border-style: dotted;
+	border-color: #73F5B9;
+	width: 76px;
+	display: inline;
+}
+
+#Submit-button {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	margin-top: 30px;
+	padding: 15px;
+	font-size: 20px;
+	font-weight: 300;
+	background-color: transparent;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+#Submit-button:hover{
+	background-color: #222C38;
+}
+
+#teach-me-text{
+	width: 380px;
+	text-align: center;
+	margin: 0 auto;
+	font-family: Muli;
+	font-size: 18px;
+	margin-top: 5%;
+	color: #FFFFFF;
+	display: block;
+}
+
+#down-arrow{
+	width: 20px;
+	margin: 0 auto;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+#page-bottom{
+	margin-top: 200px;
+	height: 900px;
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+#video { 
+	width: 853px;
+	margin: 0 auto;
+	padding-top: 150px;
+}
+

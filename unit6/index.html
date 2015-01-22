@@ -12,61 +12,106 @@
 
 <body>
 
-<div id="privacy">
-<nav>
-<ul>
-	<li>
-		<a href = "http://www.bungalowinsurance.com/privacy-policy">Privacy</a>
-	</li>	
-</ul>
-</nav>
-</div>
+<div class="blue-page">
 
-<div id="whitehouse">
-	<img src="assets/whitelogosmall.png", logo>
-</div>
+	<div class="top-menu">
+		<nav>
+			<ul>
+				<li>
+				<a id="white-privacy" href = "http://www.bungalowinsurance.com/privacy-policy">Privacy</a>
+				</li>	
+			</ul>
+		</nav>
+	</div>
 
-<div class="clearfix"></div>
+	<div class="house">
+		<img src="assets/whitelogosmall.png", logo>
+	</div>
 
-<section id="frontpage-text-wrapper">
-	<div id="Introtext">
-		<div id="Welcome">
+	<div class="clearfix"></div>
+
+	<section id="frontpage-text-wrapper">
+		<div id="Introtext">
 			<h1>Say hello to Bungalow</h1>
+			<div id="Catchphrase">
+				<h4>Simplifying renters insurance</h4>
+			</div>
 		</div>
-		<div id="Catchphrase">
-			<h4>Simplifying renters insurance</h4>
+		<div id="Instructions">
+			<ol>
+				<li>Enter your zip code.</li>
+				<li>Get a quote.</li>
+				<li>Buy online.</li>
+				<li>Go do something that's more fun.</li>
+			</ol>
+		</div>
+		<div id="Zip-input">
+			<span id="zip-intro">My zip code is</span>
+			<form id="Zip-form" action="quotepage/html">
+				<input autocomplete="off" id="Zip-code" maxlength="5" name="Zip-code" pattern="[0-9]*" placeholder="" type="text" value="">
+				<br>
+				<input id="Submit-button" type="submit" value = "Show Me">
+			</form>
+		</div>
+	</section>
+
+	<div id="teach-me-text">
+		<p>Teach me about renters insurance first</p>
+
+		<div id="down-arrow">
+			<img id="down-arrow-img" src="assets/downarrow.png">
 		</div>
 	</div>
-	<div id="Instructions">
-		<ol>
-			<li>Enter your zip code.</li>
-			<li>Get a quote.</li>
-			<li>Compare your options.</li>
-		</ol>
-	</div>
-	<div id="Zip-input">
-		<span class="Zip-text">My zip code is</span>
-		<form id="Zip-form" action="quotepage/html">
-		<input autocomplete="off" id="Zip-code" maxlength="5" name="Zip-code" pattern="[0-9]*" placeholder="" type="text" value="">
-		<br>
-		<input id="Submit-button" type="submit" value = "Show Me">
-		</form>
-	</div>
 </div>
 
-<div id="teach-me-text">
-	<p>Teach me about renters insurance first</p>
-</section>
+	<div class="white-page">
+		<div class="house">
+			<img src="assets/darkbluelogo.png", logo>
+		</div>
 
-<div id="down-arrow">
-	<!-- <a href = #page-bottom> --><img id="down-arrow-img" src="assets/downarrow.png"><!-- </a> -->
-</div>
+		<div class="top-menu">
+				<nav>
+					<a href = "http://www.bungalowinsurance.com/blog/">Blog</a></li>
+					 <a class="blue-nav" href = "http://www.bungalowinsurance.com/about-us/">About</a></li>
+					 <a class="blue-nav" href = "http://www.bungalowinsurance.com/privacy-policy">Privacy</a> </li>	
+					</ul>
+				</nav>
+		</div>
 
-<div id="page-bottom">
-	<div id="video">
-		<iframe width="853" height="480" src="http://www.youtube.com/embed/hkOW7HclWxk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		<div class="clearfix"></div>
+
+		<hr>
+
+		<div class="learning-nav-box-left">
+				<img class="learning-nav-triangle-left" src=assets/lefttriangle.png>
+				<h3 id="learning-nav-text"> Text Overview</h3>
+		</div>
+
+		<div class="learning-nav-box-right">
+				<img class="learning-nav-triangle-right" src=assets/righttriangle.png>
+				<h3 id="learning-nav-infographic">Infographic Overview</h3>
+		</div>
+
+		<div class="clearfix"></div>
+
+		<div class="instruction-header">
+			<h2>Video Overview</h2>
+		</div>
+
+		<div id="video">
+			<iframe width="100%" height="100%" src="http://www.youtube.com/embed/hkOW7HclWxk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		</div>
+
+		<h3 id="ask-again">Ready for a Quote?</h3>
+		<div id="Zip-input-retry">	
+				<span id="zip-intro-retry">My zip code is</span>
+				<form id="Zip-form-retry" action="quotepage/html">
+					<input autocomplete="off" id="Zip-code-retry" maxlength="5" name="Zip-code" pattern="[0-9]*" placeholder="" type="text" value="">
+				<br>
+				<input id="Submit-button-retry" type="submit" value = "Show Me">
+			</form>
+		</div>
+	</section>
 	</div>
-</div>
-
 </body>
 </html>

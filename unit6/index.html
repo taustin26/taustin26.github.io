@@ -12,23 +12,28 @@
 
 <body>
 
-<div class="blue-page">
 
-	<div class="top-menu">
-		<nav>
-			<ul>
-				<li>
-				<a id="white-privacy" href = "http://www.bungalowinsurance.com/privacy-policy">Privacy</a>
-				</li>	
-			</ul>
-		</nav>
-	</div>
 
-	<div class="house">
-		<img src="assets/whitelogosmall.png", logo>
-	</div>
+	<header>
+		<div id="white-house">
+			<img src="assets/whitelogosmall.png", logo>
+		</div>
+
+		<div class="top-menu">
+			<nav>
+				<ul>
+					<li>
+					<a id="white-privacy" href = "http://www.bungalowinsurance.com/privacy-policy">Privacy</a>
+					</li>	
+				</ul>
+			</nav>
+		</div>
+	</header>
 
 	<div class="clearfix"></div>
+
+<div id="blue-page">
+
 
 	<section id="frontpage-text-wrapper">
 		<div id="Introtext">
@@ -39,10 +44,9 @@
 		</div>
 		<div id="Instructions">
 			<ol>
-				<li>Enter your zip code.</li>
-				<li>Get a quote.</li>
+				<li>Enter your zip code to get a quote.</li>
 				<li>Buy online.</li>
-				<li>Go do something that's more fun.</li>
+				<li>Go do something more interesting.</li>
 			</ol>
 		</div>
 		<div id="Zip-input">
@@ -64,7 +68,7 @@
 	</div>
 </div>
 
-	<div class="white-page">
+	<div id="white-page">
 		<div class="house">
 			<img src="assets/darkbluelogo.png", logo>
 		</div>
@@ -82,6 +86,11 @@
 
 		<hr>
 
+
+		<div class="instruction-header">
+			<h2>Video Overview</h2>
+		</div>
+
 		<div class="learning-nav-box-left">
 				<img class="learning-nav-triangle-left" src=assets/lefttriangle.png>
 				<h3 id="learning-nav-text"> Text Overview</h3>
@@ -92,23 +101,20 @@
 				<h3 id="learning-nav-infographic">Infographic Overview</h3>
 		</div>
 
-		<div class="clearfix"></div>
+<!-- 		<div class="clearfix"></div> -->
 
-		<div class="instruction-header">
-			<h2>Video Overview</h2>
-		</div>
 
 		<div id="video">
 			<iframe width="100%" height="100%" src="http://www.youtube.com/embed/hkOW7HclWxk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 		</div>
 
-		<h3 id="ask-again">Ready for a Quote?</h3>
-		<div id="Zip-input-retry">	
+	<!-- 	<h3 id="ask-again">Ready for a Quote?</h3>
+ -->		<div id="Zip-input-retry">	
 				<span id="zip-intro-retry">My zip code is</span>
 				<form id="Zip-form-retry" action="quotepage/html">
 					<input autocomplete="off" id="Zip-code-retry" maxlength="5" name="Zip-code" pattern="[0-9]*" placeholder="" type="text" value="">
-				<br>
-				<input id="Submit-button-retry" type="submit" value = "Show Me">
+<!-- 				<br> -->
+				<input id="Submit-button-retry" type="submit" value = "Get my Quote!">
 			</form>
 		</div>
 	</section>

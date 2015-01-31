@@ -6,10 +6,9 @@ body {
 
 
 header{
-	height: 4rem;
-	padding-left: 2.5em;
-	padding-right: 2.5em;
-
+	height: 4.6rem;
+/*	margin-left: -2.5rem;
+	margin-right: -2.5rem;*/
 }
 
 a {
@@ -41,11 +40,12 @@ h3 {
 
 }
 
-#white-page {
+.white-page {
 	padding-left: 2.5rem;
 	padding-right: 2.5rem;
 	background-color: #FFFFFF;
-	height: 900px;
+	height: 1090px;
+	border: 1px solid white;
 
 }
 
@@ -60,11 +60,13 @@ h3 {
 
 #white-privacy{
 	color: #FFFFFF;
+	margin-right: 2rem;
 }
 
-#white-house {
+.white-house {
 	float: left;
-	margin-top: 1.25em;
+	margin-top: 1.25rem;
+	margin-left: 2rem;
 }
 
 .clearfix:after{
@@ -77,7 +79,7 @@ h3 {
 #frontpage-text-wrapper {
 	width: 90%;
 	margin-top: 5rem;
-	margin-left: 8.51%;
+	margin-left: 4.4rem;
 }
 
 #Introtext{
@@ -167,7 +169,7 @@ h3 {
 
 .house{
 	margin-top: 1rem;
-	display: inline;
+	display: block;
 	float: left;
 }
 
@@ -307,3 +309,97 @@ hr{
 }
 
 
+/*Start Quote Page*/
+
+.blue-header{
+	background-color: #314052;
+	color: #314052;
+	height: 100%;
+}
+
+.white-nav-wrapper{
+	margin-right: 2rem;
+}
+
+.white-nav {
+	margin-left: 1rem;
+	color: #FFFFFF;
+}
+
+#initial-quote-block{
+	width: 28rem;
+	margin-top: 3rem;
+	margin-left: 4.5rem;
+/*	border: 1pt solid black;*/
+	font-family: Muli, sans-serif;
+	color: #314052;
+	font-size: 1.25rem;
+}
+
+#initial-quote{
+	font-size: 7.8125rem;
+}
+
+#per-month{
+	font-size: 1.9375rem;
+}
+
+#policy-basics-wrapper{
+	width: 90vw;
+	margin: 0 auto;
+	margin-top: 8rem;
+	color: #314052;
+/*	outline: 1pt solid black;*/
+}
+
+#policy-basics-title{
+	font-size: 2rem;
+	text-align: center;
+	font-family: Muli, sans-serif;
+	margin-bottom: 3rem;
+}
+
+
+#property-coverage-limit-wrapper{
+	display: inline-block;
+/*	outline: 1pt solid black;*/
+	width: 30%
+}
+
+#liability-coverage-limit-wrapper{
+	display: inline-block;
+/*	outline: 1pt solid black;*/
+	width: 30%;
+	margin-left:5%
+}
+
+#deductible-coverage-limit-wrapper{
+	display: inline-block;
+/*	outline: 1pt solid black;*/
+	width: 30%;
+	margin-left:4%
+}
+
+.coverage-limit-title{
+	font-family: Muli,sans-serif;
+	font-size: 1.8rem;
+	text-align: center;
+	margin-top: .5rem;
+}
+
+
+select{
+/*	-webkit-appearance: none;
+	-moz-appearance: none;*/
+	margin: 0 auto;
+	font-size: 5rem;
+	display:inline;
+}
+
+
+.change-coverage{
+	font-family: Muli, sans-serif;
+	color: #314052;
+	font-size: 1rem;
+	text-align: center;
+}

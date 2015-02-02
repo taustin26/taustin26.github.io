@@ -177,7 +177,7 @@ h3 {
 	margin-left: 1rem;
 }
 
-hr{
+#education-hr{
 	margin-right: -2.5em;
 	margin-left: -2.5em;
 	color: #314052;
@@ -353,11 +353,12 @@ hr{
 }
 
 #policy-basics-title{
-	font-size: 2rem;
+	font-size: 1.8rem;
 	text-align: center;
 	font-family: Muli, sans-serif;
 	margin-bottom: 3rem;
 }
+
 
 
 #property-coverage-limit-wrapper{
@@ -380,12 +381,97 @@ hr{
 	margin-left:4%
 }
 
+
+
 .coverage-limit-title{
 	font-family: Muli,sans-serif;
-	font-size: 1.8rem;
+	font-size: 1.5rem;
 	text-align: center;
 	margin-top: .5rem;
 }
+
+#property-coverage-limit-title{
+	font-family: Muli,sans-serif;
+	font-size: 1.5rem;
+	margin: 0 auto;
+	margin-top: .5rem;
+	display: block;
+	width: 14rem;
+}
+
+#property-pop-up {
+  display: none;
+  position: absolute;
+  width: 280px;
+  padding: 10px;
+  background: #FFFFFF;
+  color: #000000;
+  border: 1px solid black;
+  font-size: 90%;
+  font-family: Muli, sans-serif;
+}
+
+#property-explanation{
+	font-family: Muli, sans-serif;
+	font-size: 1rem;
+	text-align: center;
+}
+
+#liability-coverage-limit-title{
+	font-family: Muli,sans-serif;
+	font-size: 1.5rem;
+	margin: 0 auto;
+	margin-top: .5rem;
+	display: block;
+	width: 13rem;
+}
+
+#liability-pop-up {
+  display: none;
+  position: absolute;
+  width: 280px;
+  padding: 10px;
+  background: #FFFFFF;
+  color: #000000;
+  border: 1px solid black;
+  font-size: 90%;
+  font-family: Muli, sans-serif;
+}
+
+#liability-explanation{
+	font-family: Muli, sans-serif;
+	font-size: 1rem;
+	text-align: center;
+}
+
+
+#deductible-limit-title{
+	font-family: Muli,sans-serif;
+	font-size: 1.5rem;
+	margin: 0 auto;
+	margin-top: .5rem;
+	display: block;
+	width: 8rem;
+}
+
+#deductible-pop-up {
+  display: none;
+  position: absolute;
+  width: 280px;
+  padding: 10px;
+  background: #FFFFFF;
+  color: #000000;
+  border: 1px solid black;
+  font-size: 90%;
+  font-family: Muli, sans-serif;
+}
+
+#deductible-explanation{
+	font-family: Muli, sans-serif;
+	font-size: 1rem;
+	text-align: center;
+}
+
 
 
 select{
@@ -402,4 +488,48 @@ select{
 	color: #314052;
 	font-size: 1rem;
 	text-align: center;
+	margin-top: 2rem;
+}
+
+#most-common-property-coverage-wrapper{
+	margin-top: 1.3rem;
+
+}
+
+
+.most-common-inside-wrapper{
+	margin-top: 1.3rem;
+	margin-bottom: 1.3rem;
+}
+
+.most-common-title{
+	font-family: Muli, sans-serif;
+	font-size: 1rem;
+	text-align: center;
+	color: #314052;
+}
+
+.most-common-amount{
+	font-family: Kameron, sans-serif;
+	font-size: 1.4rem;
+	text-align: center;
+	color: #55B689;
+}
+
+.most-common-hr{
+	width: 12em;
+	margin: 0 auto;
+	color: black;
+}
+
+#quote-page-bottom-wrapper{
+	margin-top: 8rem;
+	float: right;
+}
+
+#take-quiz-text-wrapper{
+	display: inline-block;
+	width: 18rem;
+	font-size: 1.5rem;
+	margin-right: 1rem;
 }

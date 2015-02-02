@@ -310,6 +310,12 @@ h3 {
 
 
 /*Start Quote Page*/
+/*Start Quote Page*/
+/*Start Quote Page*/
+/*Start Quote Page*/
+/*Start Quote Page*/
+
+
 
 .blue-header{
 	background-color: #314052;
@@ -524,12 +530,37 @@ select{
 
 #quote-page-bottom-wrapper{
 	margin-top: 8rem;
-	float: right;
+	float: right;	
+/*s*/
+	margin-right: 7rem;
+	/*width: 40rem;*/
 }
 
 #take-quiz-text-wrapper{
 	display: inline-block;
 	width: 18rem;
 	font-size: 1.5rem;
-	margin-right: 1rem;
+/*	margin-right: 1rem;*/
+/*	margin-top: 2rem;*/
+/*	outline: 1pt solid black;*/
+	vertical-align: bottom;
+}
+
+#quiz-button-wrapper{
+/*	outline: 1pt solid black;*/
+	background-color: #314052;
+	height: 2.65rem;
+	width: 6rem;
+	display: inline-block;
+	font-size: 1.2rem;
+	margin-left: 1rem;
+	vertical-align: baseline;
+}
+
+#quiz-button-text{
+	font-family: Muli, sans-serif;
+	color: #73F5B9;
+	text-align: center;
+	display: block;
+	margin-top: .7rem;
 }

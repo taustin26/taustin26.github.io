@@ -63,6 +63,7 @@ h3 {
 	margin-right: 2rem;
 }
 
+
 .white-house {
 	float: left;
 	margin-top: 1.25rem;
@@ -87,8 +88,14 @@ h3 {
 	color: #FFFFFF;
 }
 
-
 #Catchphrase {
+	margin-top: .625rem;
+	font-size: 1.6875rem;
+	font-family: Muli, sans-serif;	
+}
+
+#Catchphrase-smallscreen {
+	display:none;
 	margin-top: .625rem;
 	font-size: 1.6875rem;
 	font-family: Muli, sans-serif;	
@@ -102,8 +109,6 @@ h3 {
 	line-height: 150%;
 	color: #73F5B9;
 }
-
-
 
 #Zip-input{
 	margin-top: 2rem;
@@ -532,7 +537,7 @@ select{
 	margin-top: 8rem;
 	float: right;	
 /*s*/
-	margin-right: 7rem;
+	margin-right: 7srem;
 	/*width: 40rem;*/
 }
 
@@ -564,3 +569,62 @@ select{
 	display: block;
 	margin-top: .7rem;
 }
+
+
+/*start media queries*/
+/*start media queries*/
+/*start media queries*/
+/*start media queries*/
+
+@media only screen and (max-width: 480px) {
+	h1 {
+	color: #73F5B9;
+	}
+
+	#frontpage-text-wrapper{
+		margin-left: 0rem;
+	}
+
+	.top-menu{
+		float: left;
+	}
+
+	#white-privacy{
+		float: left;
+		margin-left: 2em;
+	}
+
+	.white-house{
+		float: right;
+		margin-right: 2em;
+	}
+
+	#Catchphrase, #Instructions {
+		display: none;
+	}
+
+	#Catchphrase-smallscreen{
+		display: inline-block;
+		margin-top: 2rem;
+
+	}
+
+	#Zip-input{
+		margin-top: 6rem;
+	}
+
+	#Submit-button {
+		font-size: 1rem;
+	}
+
+	#teach-me-text{
+		display: none;
+	}
+
+	.white-page{
+		display: none;
+	}
+
+	#blue-page {
+		height: 100vh;
+	}

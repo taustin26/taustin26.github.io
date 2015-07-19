@@ -60,4 +60,5 @@ $(document).ready(function(){
 	    $("div#deductible-pop-up").css('top', e.pageY + moveDown).css('left', e.pageX + moveLeft);
 	  });
 
-	});		
+
+});		

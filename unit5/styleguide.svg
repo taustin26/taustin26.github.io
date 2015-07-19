@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="styleguide.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3994"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3996" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3964">
+      <stop
+         style="stop-color:#82a997;stop-opacity:1;"
+         offset="0"
+         id="stop3966" />
+      <stop
+         style="stop-color:#82a997;stop-opacity:0;"
+         offset="1"
+         id="stop3968" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3964"
+       id="linearGradient3970"
+       x1="37.785713"
+       y1="593.79071"
+       x2="250.78571"
+       y2="593.79071"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86267027"
+     inkscape:cx="274.30823"
+     inkscape:cy="413.55329"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1061"
+     inkscape:window-height="726"
+     inkscape:window-x="37"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#314052;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="38.57143"
+       y="90.933617"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="38.57143"
+         y="90.933617">Bungalow</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.149555,36.647897 222.857135,0"
+       id="path3004"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crete Round;-inkscape-font-specification:Crete Round"
+       x="78.275177"
+       y="30.933611"
+       id="text3774"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3776"
+         x="78.275177"
+         y="30.933611">Logo Type</tspan></text>
+    <image
+       y="199.00504"
+       x="39.649555"
+       id="image3797"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAABCAYAAADHNaLGAAAABHNCSVQICAgIfAhkiAAAABtJREFU
+KJFjqK+v/8/AwDCKR/EopjOePXv2CwDs1uJYBU3TtAAAAABJRU5ErkJggg==
+"
+       height="1"
+       width="224" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crete Round;-inkscape-font-specification:Crete Round"
+       x="39.009556"
+       y="194.6479"
+       id="text3800"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3802"
+         x="39.009556"
+         y="194.6479">Header Type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Kameron;-inkscape-font-specification:Kameron"
+       x="41.42857"
+       y="232.36218"
+       id="text3804"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3806"
+         x="41.42857"
+         y="232.36218" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Kameron;-inkscape-font-specification:Kameron"
+       x="38.32143"
+       y="251.50504"
+       id="text3808"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="38.32143"
+         y="251.50504"
+         id="tspan3820">Introducing Bungalow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="316.92941"
+       y="89.717117"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="316.92941"
+         y="89.717117">Rockwell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Kameron;-inkscape-font-specification:Kameron"
+       x="451.71432"
+       y="250.07646"
+       id="text3833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
+         x="451.71432"
+         y="250.07646">Kameron</tspan></text>
+    <image
+       y="340.43362"
+       x="39.649555"
+       id="image3884"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAABCAIAAABIVzWRAAAAA3NCSVQICAjb4U/gAAAAFklEQVQo
+kWOor69nGAWjYFCCJUuWAADtSQNqtRcoSgAAAABJRU5ErkJggg==
+"
+       height="1"
+       width="224" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="38.774555"
+       y="379.50504"
+       id="text3891"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3893"
+         x="38.774555"
+         y="379.50504"
+         style="font-size:28px">Helping Millenials get the</tspan><tspan
+         sodipodi:role="line"
+         x="38.774555"
+         y="414.50504"
+         id="tspan3897"
+         style="font-size:28px">Insurance they need in a way </tspan><tspan
+         sodipodi:role="line"
+         x="38.774555"
+         y="449.50504"
+         style="font-size:28px"
+         id="tspan3901">they can actually understand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="39.235493"
+       y="338.07648"
+       id="text3903"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3905"
+         x="39.235493"
+         y="338.07648"
+         style="font-size:16px">Type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="441.42856"
+       y="449.50504"
+       id="text3907"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3909"
+         x="441.42856"
+         y="449.50504" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="444.28571"
+       y="449.50504"
+       id="text3911"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3913"
+         x="444.28571"
+         y="449.50504">Muli</tspan></text>
+    <image
+       y="507.50504"
+       x="39.214287"
+       id="image3935"
+       xlink:href="data:image/png;base64,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
+"
+       height="44"
+       width="213" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="264.28574"
+       y="538.07648"
+       id="text3960"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3962"
+         x="264.28574"
+         y="538.07648">38, 80, 140</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#82a997;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="36"
+       y="602.36218"
+       id="text5442"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5444"
+         x="36"
+         y="602.36218">Bungalow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="262.85715"
+       y="602.36218"
+       id="text5469"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5471"
+         x="262.85715"
+         y="602.36218">130, 169, 151</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="38.57143"
+       y="646.64789"
+       id="text5473"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5475"
+         x="38.57143"
+         y="646.64789" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#314052;fill-opacity:1;stroke:#edfff9;font-family:Rockwell;-inkscape-font-specification:Rockwell;stroke-opacity:1"
+       x="30.796272"
+       y="659.8797"
+       id="text5477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5479"
+         x="30.796272"
+         y="659.8797">Bungalow</tspan></text>
+    <rect
+       style="fill:#314052;fill-opacity:1;stroke:#82a997;stroke-width:0.88248937999999999;stroke-opacity:0.31400966000000002;opacity:1"
+       id="rect5481"
+       width="468.6889"
+       height="252.97466"
+       x="34.226959"
+       y="735.16052" />
+    <g
+       id="g5739"
+       style="stroke:#314052;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5595"
+         d="m 297.73991,75.293355 0,14.820351"
+         style="fill:#314052;fill-opacity:1;stroke:#314052;stroke-width:2.96430587999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5619"
+         d="m 267.39932,75.303484 0,14.799954"
+         style="fill:#314052;fill-opacity:1;stroke:#314052;stroke-width:2.96430587999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5621"
+         d="M 262.04733,78.745137 283.64546,65.611719"
+         style="fill:#314052;fill-opacity:1;stroke:#314052;stroke-width:3.55693150000000013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5623"
+         d="M 281.8845,65.67177 303.362,78.684955"
+         style="fill:#314052;fill-opacity:1;stroke:#314052;stroke-width:3.55693150000000013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="258.49969"
+       y="654.75952"
+       id="text5625"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5627"
+         x="258.49969"
+         y="654.75952">49, 64, 82</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#85adde;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="435.98068"
+       y="756.79059"
+       id="text5519"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5521"
+         x="435.98068"
+         y="756.79059">Privacy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="46.819672"
+       y="814.62445"
+       id="text5523"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5525"
+         x="46.819672"
+         y="814.62445">Say Hello to Bungalow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="46.648773"
+       y="836.13269"
+       id="text5527"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5529"
+         x="46.648773"
+         y="836.13269">Simplifying Renters Insurance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e3a49e;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Light"
+       x="46.888031"
+       y="910.94086"
+       id="text5531"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5533"
+         x="46.888031"
+         y="910.94086">1. Enter your Zip Code</tspan><tspan
+         sodipodi:role="line"
+         x="46.888031"
+         y="928.44086"
+         id="tspan5535">2. Compare your options</tspan><tspan
+         sodipodi:role="line"
+         x="46.888031"
+         y="945.94086"
+         id="tspan5537">3. Get your quote</tspan></text>
+    <path
+       style="fill:none;stroke:#27443f;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 33.616552,761.40513 467.154148,0"
+       id="path5539"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
